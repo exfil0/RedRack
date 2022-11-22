@@ -1,2 +1,2 @@
 # RedRack
-A set of Red Teaming tools and and Techniques performed by pentesters.
+A set of tools and and Techniques performed by Advanced Red Teams.
